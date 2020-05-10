@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-restro/static/css/main.bad9ce8c.chunk.css",
+    "main.js": "/react-restro/static/js/main.62fa4a63.chunk.js",
+    "main.js.map": "/react-restro/static/js/main.62fa4a63.chunk.js.map",
+    "runtime-main.js": "/react-restro/static/js/runtime-main.b02f2e07.js",
+    "runtime-main.js.map": "/react-restro/static/js/runtime-main.b02f2e07.js.map",
+    "static/css/2.de424728.chunk.css": "/react-restro/static/css/2.de424728.chunk.css",
+    "static/js/2.e2b34c64.chunk.js": "/react-restro/static/js/2.e2b34c64.chunk.js",
+    "static/js/2.e2b34c64.chunk.js.map": "/react-restro/static/js/2.e2b34c64.chunk.js.map",
+    "index.html": "/react-restro/index.html",
+    "precache-manifest.440676c5d8134b7c91607418ce6506ad.js": "/react-restro/precache-manifest.440676c5d8134b7c91607418ce6506ad.js",
+    "service-worker.js": "/react-restro/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/react-restro/static/css/2.de424728.chunk.css.map",
+    "static/css/main.bad9ce8c.chunk.css.map": "/react-restro/static/css/main.bad9ce8c.chunk.css.map",
+    "static/js/2.e2b34c64.chunk.js.LICENSE.txt": "/react-restro/static/js/2.e2b34c64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b02f2e07.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.e2b34c64.chunk.js",
+    "static/css/main.bad9ce8c.chunk.css",
+    "static/js/main.62fa4a63.chunk.js"
+  ]
+}
