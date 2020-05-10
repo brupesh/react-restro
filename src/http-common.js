@@ -13,7 +13,7 @@ axios.interceptors.response.use(
 );
 
 export default axios.create({
-  baseURL: "http://localhost:8000",
+  baseURL: process.env.REACT_APP_API_URL,
   headers: {
     "Content-type": "application/json",
     "Access-Control-Allow-Origin":"*"
